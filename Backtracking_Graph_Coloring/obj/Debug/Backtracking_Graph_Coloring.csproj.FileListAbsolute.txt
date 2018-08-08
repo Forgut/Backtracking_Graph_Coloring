@@ -1,0 +1,6 @@
+D:\Programy C++\Backtracking_Graph_Coloring\Backtracking_Graph_Coloring\bin\Debug\Backtracking_Graph_Coloring.exe.config
+D:\Programy C++\Backtracking_Graph_Coloring\Backtracking_Graph_Coloring\bin\Debug\Backtracking_Graph_Coloring.exe
+D:\Programy C++\Backtracking_Graph_Coloring\Backtracking_Graph_Coloring\bin\Debug\Backtracking_Graph_Coloring.pdb
+D:\Programy C++\Backtracking_Graph_Coloring\Backtracking_Graph_Coloring\obj\Debug\Backtracking_Graph_Coloring.csprojResolveAssemblyReference.cache
+D:\Programy C++\Backtracking_Graph_Coloring\Backtracking_Graph_Coloring\obj\Debug\Backtracking_Graph_Coloring.exe
+D:\Programy C++\Backtracking_Graph_Coloring\Backtracking_Graph_Coloring\obj\Debug\Backtracking_Graph_Coloring.pdb
