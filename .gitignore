@@ -1,0 +1,6 @@
+
+*.exe
+
+*.pdb
+
+.\Backtracking_Graph_Coloring\bin

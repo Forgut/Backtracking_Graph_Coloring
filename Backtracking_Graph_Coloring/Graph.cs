@@ -64,7 +64,8 @@ namespace Backtracking_Graph_Coloring {
             return true;
         }
 
-        private bool graphColoring(int ID, int maxColor, int[] colors) {
+        private bool graphColoring(int ID, int maxColor, int[] inputColors) {
+            int[] colors = (int[])inputColors.Clone();
             if (ID == matrix.GetLength(0)) {
                 this.outputcolors[maxColor - 1] = colors;
                 return true;

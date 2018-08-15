@@ -16,7 +16,5 @@ namespace Backtracking_Graph_Coloring {
             g.printMatrix();
             Console.ReadLine();
         }
-
-
     }
 }
